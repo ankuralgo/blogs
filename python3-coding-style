@@ -1,0 +1,7 @@
+Python3 Coding style and review checklist
+
+1. First line should always pint to python3 path
+2. Every Python file must have a license and confidentiality disclaimer
+3. Use f"" or <str>.format() for string formatting, instead of %s
+4. Must specify the return type in a method 
+
